@@ -1,2 +1,2 @@
-Effective tools on Mac<br />
-[View Slide](http://bit3725.github.com/WorkAtMac) directly
+How to use your Kindle<br />
+[View Slide](http://bit3725.github.com/HowToUseKindle/) directly
