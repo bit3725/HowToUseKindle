@@ -97,3 +97,9 @@ body > footer > p {
 .calign {
   text-align: center;
 }
+.large_list li {
+  font-size: 2em;
+}
+del {
+  color: #666;
+}
