@@ -5,3 +5,7 @@
 del {
   color: #666;
 }
+
+.dead-store {
+  opacity: 0.3;
+}
